@@ -9,5 +9,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/mus9090/pandas-sql-ques/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/mus9090/pandas-sql-ques/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/mus9090/pandas-sql-ques/tree/master/1148-article-views-i) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/mus9090/pandas-sql-ques/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mus9090/pandas-sql-ques/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
