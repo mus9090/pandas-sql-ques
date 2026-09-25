@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the DA coding interview! - Created usi
 | [1148-article-views-i](https://github.com/mus9090/pandas-sql-ques/tree/master/1148-article-views-i) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/mus9090/pandas-sql-ques/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mus9090/pandas-sql-ques/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mus9090/pandas-sql-ques/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
