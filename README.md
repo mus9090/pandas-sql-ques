@@ -1,7 +1,5 @@
 # pandas-sql-ques
-A collection of LeetCode questions to ace the DA coding interview! - Created using [LeetHub v2]
-
-<!---LeetCode Topics Start-->
+A collection of LeetCode questions to ace the DA coding interview
 # LeetCode Topics
 ## Database
 |  |
