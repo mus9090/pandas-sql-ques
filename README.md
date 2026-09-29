@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the DA coding interview! - Created usi
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/mus9090/pandas-sql-ques/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/mus9090/pandas-sql-ques/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/mus9090/pandas-sql-ques/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mus9090/pandas-sql-ques/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/mus9090/pandas-sql-ques/tree/master/0595-big-countries) |
